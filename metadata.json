@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Steam Insight Engine",
+  "description": "A minimalist Steam data monitor that uses AI and real-time search to track game statistics, player counts, and market trends, similar to SteamDB.",
+  "requestFramePermissions": []
+}
